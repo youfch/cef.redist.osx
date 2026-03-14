@@ -1,4 +1,4 @@
-﻿<?xml version="1.0"?>
+<?xml version="1.0"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>cef.redist.$id$</id>
@@ -7,7 +7,7 @@
     <owners></owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>CEF - the Chromium Embedded Framework.</description>
-    <copyright>Copyright © 2021</copyright>
+    <copyright>Copyright © 2025</copyright>
     <tags>chrome chromium native embedded browser CEF nativepackage OSX64</tags>
     <license type="file">LICENSE.txt</license>
   </metadata>
